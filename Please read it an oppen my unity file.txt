@@ -1,0 +1,1 @@
+Because one of my Unity files is larger than 100M, please go to "Asset/Scenes" and unzip "gamescene.zip" into the Scenes file when you open my Unity file. Please make sure the game works
